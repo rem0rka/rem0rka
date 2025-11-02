@@ -2,10 +2,6 @@
 
 ###
 
-<p>You can check out the tools and apps I'm interested in. I want to pay more attention to them but my laziness doesn't let me do it.</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rem0rka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rem0rka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -14,6 +10,10 @@
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJqazhmYmVtaHo5ZGhwdGQyc3N0bmo1aTEzbmM5cDJzMHd0dDdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YgoDFZkoZS5Gw/giphy.gif"  />
+
+###
+
+<p>You can check out the tools and apps I'm interested in below. I want to pay more attention to them but my laziness doesn't let me do it.</p>
 
 ###
 
