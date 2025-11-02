@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="30" alt="aseprite logo"  />
 </div>
 
 ###
@@ -54,11 +54,3 @@
     <img src="https://img.shields.io/static/v1?message=osu!&logo=itch&label=&color=f668a7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rem0rka/rem0rka/output/snake.svg" alt="Snake animation" />
-
-###
