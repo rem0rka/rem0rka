@@ -40,7 +40,7 @@
 
 ###
 
-<p>Contact me here:</p>
+<p>My media here:</p>
 
 ###
 
