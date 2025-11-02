@@ -1,4 +1,4 @@
-<h2 align="left">Privet 👋! My name is rem0rka and I'm a designer, from Russia</h2>
+<h2 align="left">Zdarova 👋! My name is rem0rka and I'm a designer, from Russia</h2>
 
 ###
 
