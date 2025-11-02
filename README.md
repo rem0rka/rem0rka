@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="60" alt="aseprite logo"  />
+  <img src="https://images.seeklogo.com/logo-png/50/1/aseprite-logo-png_seeklogo-506592.png" height="30" alt="aseprite logo"  />
 </div>
 
 ###
